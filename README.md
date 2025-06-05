@@ -1,4 +1,3 @@
-![Banner do Projeto](./banner.png)
 
 # 📚 Análise de Empréstimos das Bibliotecas da UFRN
 
